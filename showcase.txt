@@ -1,3 +1,7 @@
 CAMBIO B
 
+<<<<<<< HEAD
 NEW COLLECTION CARTEL and IMAGES
+=======
+NEW COLLECTION CARTEL A
+>>>>>>> features/new-evo
